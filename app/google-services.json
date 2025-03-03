@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084820111228",
+    "project_id": "newrefrigerator-1524f",
+    "storage_bucket": "newrefrigerator-1524f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084820111228:android:24cdbdd4ad6b74cc2eeef9",
+        "android_client_info": {
+          "package_name": "new.refrigerator113"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8zpDcaeAfvLHNswu29ASFjlk_0Aqnr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084820111228:android:e92804ea669d984b2eeef9",
+        "android_client_info": {
+          "package_name": "tw.pu.edu.csim.hsiien.newrefrigerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8zpDcaeAfvLHNswu29ASFjlk_0Aqnr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

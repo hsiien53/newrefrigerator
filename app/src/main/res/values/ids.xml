@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="refrigerator" type="id">refrigerator</item>
+    <item name="recipe" type="id">recipe</item>
+    <item name="recommend" type="id">recommend</item>
+    <item name="account" type="id">account</item>
+    <item name="joinButton" type="id">joinButton</item>
+    <item name="fridgeIdInput" type="id">fridgeIdInput</item>
+    <item name="fridgeRecyclerView" type="id">fridgeRecycleView</item>
+</resources>
